@@ -1,0 +1,6 @@
+{
+  "name": "Rōiki tenkai",
+  "description": "Interactive Jujutsu Domain Expansion laboratory, 3D barrier manifestation, clash combat simulator, and jujutsu codex.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
